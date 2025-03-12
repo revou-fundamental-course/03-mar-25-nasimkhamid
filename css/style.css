@@ -1,0 +1,62 @@
+/* ini css */
+
+.main-header 
+{
+    display: flex
+;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-logo 
+{
+width: 50px;
+height: 50px;
+border: 1px solid;
+background-image: url(https://picsum.photos/seed/picsum/200/300);
+background-position: center;
+background-size: cover;
+border: 5px solid black;
+border-radius: 15%;
+}
+
+nav > a {
+        padding: 8px;
+        border: 5px solid;
+        border-radius: 15%;
+        text-decoration: none;
+        color: black;
+    }
+
+.banner-img {
+    border: 5px solid;
+    height: 500px;
+    border-radius: 1%;
+    align-content: center;
+    text-align: center;
+}
+
+.about-us {
+    border: 5px solid;
+    height: 200px;
+    border-radius: 1%;
+    align-content: center;
+    text-align: center;
+}
+
+.products-content {
+    border: 5px solid;
+    height: 500px;
+    border-radius: 1%;
+    align-content: center;
+    text-align: center;
+
+}
+
+.Order-content {
+    border: 5px solid;
+    height: 500px;
+    border-radius: 1%;
+    align-content: center;
+    text-align: center;
+}
